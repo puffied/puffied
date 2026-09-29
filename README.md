@@ -21,5 +21,5 @@ Aspiring IT specialist for system integration ▷ Cybersecurity pentester.
 - 👨‍💻 IT Specialist for systemintegration training
 - 🎓 Study Cybersecurity 
 - 🕵️ Become a Pentester
-- 💻 Master C and exploitation
+
 
