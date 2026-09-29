@@ -16,6 +16,17 @@ Aspiring IT specialist for system integration ▷ Cybersecurity pentester.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
+
+## 📊 GitHub Stats
+
+![puffied's GitHub stats](https://github-readme-stats.vercel.app/api?username=puffied&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🥇 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puffied&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
 ## 🎯 Goals
 - 👨‍💻 IT Specialist for systemintegration training
 - 🎓 Study Cybersecurity 
