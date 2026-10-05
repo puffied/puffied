@@ -1,6 +1,5 @@
 # Hey, I'm puffied 👋
 
-Aspiring IT specialist for system integration ▷ Cybersecurity pentester.
 
 ## 🔧 Currently Working On
 - A variety of Python projects
@@ -17,9 +16,6 @@ Aspiring IT specialist for system integration ▷ Cybersecurity pentester.
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
 
-## 🎯 Goals
-- 👨‍💻 IT Specialist for systemintegration training
-- 🎓 Study Cybersecurity 
-- 🕵️ Become a Pentester
+
 
 
