@@ -4,7 +4,7 @@
 ## 🔧 Currently Working On
 - A variety of Python projects
 - Learning C next
-- Building my [Python Projects](https://github.com/puffied/Python-Projects)
+- Building my [Python Projects]([https://github.com/puffied/Python-Projects](https://github.com/puffied/My-Python-Projects))
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
